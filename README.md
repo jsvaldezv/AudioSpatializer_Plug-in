@@ -9,3 +9,12 @@ For the development of the stereo configuration, the Constant Power Panning form
 
 The equation obtained from the analysis of the sine and cosine functions was developed to be applied for the configuration of 4 channels / horns, there are 2 sliders that modify the values of X and Y depending on where you want to position the sound. These values alter the result of the following 4 equations for each speaker.
 
+Follow Ear Candy Technologies: 
+
+Facebook: https://www.facebook.com/earcandytechnologies
+Twitter: https://twitter.com/EarCandyTech
+Instagram: https://www.instagram.com/earcandytechnology/
+Youtube: https://www.youtube.com/channel/UCnmhLuxpV3PftGI2YR5kpFA
+
+Discord Server: https://discord.gg/44d6SEmw
+
